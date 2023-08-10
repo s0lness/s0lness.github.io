@@ -13,9 +13,10 @@ paginate = 20
     author = "Sylve Chevet"
     description = "My lil corner of the Internet"
     keywords = "blog,developer,personal"
-    info = ["Co-Founder [@briqNFT](https://twitter.com/briqNFT)", " Vibes Operator [@Dojo](https://twitter.com/dojostarknet)", "Governance [@StarknetFndn](https://twitter.com/starknet)"]
+    info = ["Co-Founder [@briqNFT](https://twitter.com/briqNFT)", " Vibes Operator [@Dojo](https://twitter.com/dojostarknet)", "Governance [@Starknet Foundation](https://twitter.com/starknet)"]
     avatarURL = "images/avatar.jpg"
     faviconSVG = "images/favicon.ico"
+    images = "images/avatar.jpg"
 
     colorScheme = "auto"
     hidecolorschemetoggle = false
