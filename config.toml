@@ -1,0 +1,62 @@
+baseURL = "s0lness.github.io"
+title = "Sylve's Place on the Internet"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+
+[markup.highlight]
+    style = "github-dark"
+
+[params]
+    author = "Sylve Chevet"
+    description = "My lil corner of the Internet"
+    keywords = "blog,developer,personal"
+    info = ["Co-Founder [@briqNFT](https://twitter.com/briqNFT)", " Vibes Operator [@Dojo](https://twitter.com/dojostarknet)", "Governance [@StarknetFndn](https://twitter.com/starknet)"]
+    avatarURL = "images/avatar.jpg"
+    faviconSVG = "images/favicon.ico"
+
+    colorScheme = "auto"
+    hidecolorschemetoggle = false
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-2x fa-twitter"
+    weight = 1
+    url = "https://twitter.com/sylvechv/"
+
+[[params.social]]
+    name = "Mirror"
+    icon = "fa fa-2x fa-paragraph"
+    weight = 2
+    url = "https://mirror.xyz/sylve.eth"
+
+[[params.social]]
+    name = "Arena"
+    icon = "fa fa-2x fa-bookmark"
+    weight = 3
+    url = "https://are.na/sylve-chevet"
+
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url = "https://mirror.xyz/sylve.eth"
+
+[[menu.main]]
+    name = "Publications"
+    weight = 2
+    url = "publications/"
+
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "about/"
