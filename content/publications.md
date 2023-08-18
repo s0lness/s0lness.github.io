@@ -17,6 +17,7 @@ slug = "Publications"
 - [07/2022, How to Win a Hackathon](https://www.youtube.com/watch?v=_XAkbtoiawo)
 
 # Threads
+- [Onchain games shouldn't be about money](https://twitter.com/sylvechv/status/1692191812893679658)
 - [Why the brain is the best rendering API you can use](https://twitter.com/sylvechv/status/1514546764757581829)
 - [Why a deck of 52 cards is the most composable game asset](https://twitter.com/sylvechv/status/1498642686244499456)
 - [Play off-chain, verify onchain](https://twitter.com/sylvechv/status/1527636080866082816)
