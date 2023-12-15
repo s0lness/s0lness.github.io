@@ -4,6 +4,7 @@ slug = "Publications"
 +++
 
 # Talks
+- [11/2023, StarknetCC: Do we need blockchains at all?](https://www.youtube.com/watch?v=_zOMHvHzh94&feature=youtu.be)
 - [07/2023, StarknetCC: Brave New Provable World (*Just prove it ✔️*)](https://www.youtube.com/watch?v=e6JKLTsg8Zo)
 - [07/2023, EthCC: Enter the Dojo: build an on-chain game in 55min](https://www.youtube.com/watch?v=oQQrrBP8-bw)
 - [06/2023, Autonomous Anonymous Summit: How tf do you make money](https://twitter.com/heylukegibson/status/1661761764806017024)
