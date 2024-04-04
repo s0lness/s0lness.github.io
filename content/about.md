@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Sylve"
 +++
 
-I'm Sylve Chevet, Co-Founder of [briqNFT](https://twitter.com/briqNFT), [Dojo](https://twitter.com/dojostarknet) and governance facilitator at the [Starknet Foundation](https://twitter.com/starknetfndn). I came up with *[Keep Starknet Strange](https://youtu.be/Q0LpMwvIMmc?t=756)*.
+I'm Sylve Chevet, currently building Hylé, the core layer for the modular ZK stack. I Co-founded [briqNFT](https://twitter.com/briqNFT), [Dojo](https://twitter.com/dojostarknet) and I'm a governance facilitator at the [Starknet Foundation](https://twitter.com/starknetfndn). I came up with *[Keep Starknet Strange](https://youtu.be/Q0LpMwvIMmc?t=756)*.
 
 I graduated from HEC Paris in 2018 after a *classe préparatoire*, and have worked as a product manager at [Ledger](https://ledger.com/) from 2018 to 2021. I've been working on briq since 2021.
 
