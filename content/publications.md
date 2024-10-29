@@ -4,6 +4,9 @@ slug = "Publications"
 +++
 
 # Talks
+- [10/2024, House of ZK Podcast: Provable Applications on Hylé](https://www.youtube.com/watch?v=q9hP5AlUZi0)
+- [10/2024, Daria Strategy Podcast: Zero Knowledge Proofs for Humanity](https://www.youtube.com/watch?v=vbkIlKFolTg)
+- [09/2024, Cryptoast Talks: Crypto: L1 & L2, c’est quoi et à quoi ça sert ? (French)](https://www.youtube.com/watch?v=Z0oNcphtwOw)
 - [11/2023, StarknetCC: Do we need blockchains at all?](https://www.youtube.com/watch?v=_zOMHvHzh94&feature=youtu.be)
 - [07/2023, StarknetCC: Brave New Provable World (*Just prove it ✔️*)](https://www.youtube.com/watch?v=e6JKLTsg8Zo)
 - [07/2023, EthCC: Enter the Dojo: build an on-chain game in 55min](https://www.youtube.com/watch?v=oQQrrBP8-bw)
