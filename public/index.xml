@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylve&#39;s Place on the Internet</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Sylve&#39;s Place on the Internet</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m Sylve Chevet, currently building Hylé, the core layer for the modular ZK stack. I Co-founded briqNFT, Dojo and I&amp;rsquo;m a governance facilitator at the Starknet Foundation. I came up with Keep Starknet Strange.&#xA;I graduated from HEC Paris in 2018 after a classe préparatoire, and have worked as a product manager at Ledger from 2018 to 2021. I&amp;rsquo;ve been working on briq since 2021.&#xA;My interests lie in blockchain, provability &amp;amp; zk, onchain games, autonomous worlds, NFTs, account abstraction &amp;amp; wallets, (continental) philosophy, urbanism, video games, the contemporary experience of living, knowledge tools, the slow cancellation of the future, lost futures, remix culture &amp;amp; IP law, philosophical inquiries about the concept of space and Super Smash Bros Melee.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>//localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/</guid>
+      <description> Talks Link to heading 10/2024, House of ZK Podcast: Provable Applications on Hylé 10/2024, Daria Strategy Podcast: Zero Knowledge Proofs for Humanity 09/2024, Cryptoast Talks: Crypto: L1 &amp;amp; L2, c’est quoi et à quoi ça sert ? (French) 11/2023, StarknetCC: Do we need blockchains at all? 07/2023, StarknetCC: Brave New Provable World (Just prove it ✔️) 07/2023, EthCC: Enter the Dojo: build an on-chain game in 55min 06/2023, Autonomous Anonymous Summit: How tf do you make money 03/2023, LeJournalDuCoin: Interview on StarkNet, StarkEx et Cairo 🇫🇷 02/2023, StarkWare Sessions: Introduction to Starknet Governance 02/2023, Bankless Interview on briq, Dojo and Starknet Foundation podcast, video 11/2022, StarknetCC Lisbon: A Folk History of Starknet (invention of &amp;ldquo;Keep Starknet Strange&amp;rdquo;) 11/2022, StarknetCC: The Future of Onchain Games 09/2022, LeJournalDuCoin: interview sur briq 🇫🇷 07/2022, StarknetCC: Why Account Abstraction is a Breakthrough 07/2022, How to Win a Hackathon Threads Link to heading Onchain games shouldn&amp;rsquo;t be about money Why the brain is the best rendering API you can use Why a deck of 52 cards is the most composable game asset Play off-chain, verify onchain gaMEV Use more registries Onchain copyright management protocol Other Link to heading Master&amp;rsquo;s Thesis on NFTs &amp;amp; value chain in creative industries Ghost Writing an article on MPC for Ledger </description>
+    </item>
+  </channel>
+</rss>
